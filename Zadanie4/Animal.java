@@ -5,7 +5,7 @@ public abstract class Animal {
         System.out.println("Zwierzę je.");
     }
 
-    public abstract void makeSound();
+    public abstract void makeSound(); //
 
     public abstract void roam();
 }
